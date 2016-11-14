@@ -1,0 +1,6 @@
+repo: 9e48a6864e79b65069f29d1b250c7fd37122ae2f
+node: 18365a50ee17c3bc6613c996f068717d7973563e
+branch: default
+latesttag: Entrega 2
+latesttagdistance: 41
+changessincelatesttag: 41

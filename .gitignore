@@ -1,0 +1,6 @@
+
+// Pyc files
+*.pyc
+
+// zip files
+*.zip

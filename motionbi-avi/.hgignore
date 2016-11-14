@@ -1,0 +1,8 @@
+syntax: glob
+*.o
+*~
+lib/*.o
+lib/*~
+gprs
+gprs.exe
+.depend
